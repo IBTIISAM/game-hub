@@ -10,6 +10,6 @@ interface FetchGenresResponse {
   count: number;
   results: Genre[];
 }
-const useGenres = () => ({ data: genres, isLoading: false, erorr: null });
+const useGenres = () => ({ data: genres, isLoading: false, error: null });
 
 export default useGenres;
