@@ -6,11 +6,11 @@ import {
   FaAndroid,
   FaXbox,
   FaPlaystation,
-} from "react-icons/fa";
-import { MdPhoneIphone } from "react-icons/md";
-import { SiNintendo } from "react-icons/si";
-import { BsGlobe } from "react-icons/Bs";
-import { IconType } from "react-icons";
+} from "../../node_modules/react-icons/fa";
+import { MdPhoneIphone } from "../../node_modules/react-icons/md";
+import { SiNintendo } from "../../node_modules/react-icons/si";
+import { BsGlobe } from "../../node_modules/react-icons/bs";
+import { IconType } from "../../node_modules/react-icons";
 
 import { Platform } from "../hooks/useGames";
 
