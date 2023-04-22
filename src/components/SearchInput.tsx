@@ -6,7 +6,7 @@ import {
 } from "@chakra-ui/react";
 import { useRef } from "react";
 
-import { BsSearch } from "react-icons/bs";
+//import { BsSearch } from "react-icons/Bs";
 
 interface Props {
   onSearch: (searchText: string) => void;
